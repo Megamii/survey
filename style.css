@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+body {
+  background-color: hsl(0, 100%, 74%);
+}
+main {
+  width: 1440px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.plainh1 {
+  color: white;
+  font-size: 300%;
+  font-family: 'Poppins', sans-serif;
+  max-width: 11em;
+  
+}
+.bodee {
+  color: white;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+  line-height: 25px;
+  margin-right: 5em;
+}
+
+.work {
+  color: white;
+  background-color: hsl(248, 32%, 49%);
+  font-family: 'Poppins', sans-serif;font-size: 12px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 1.5em;
+  margin-bottom: 2em;
+  padding: 1em 4em 1em 4em;
+  width:100%;
+  box-shadow: 0 6px 10px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.work2 {
+  color: white;
+  background-color: hsl(154, 59%, 51%);
+  width: 100%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border-color: hsl(154, 59%, 51%);
+  border: 1px;
+  margin: 0px 0px 0px 1px;
+}
+
+.a {
+  justify-content: start;
+  border-radius: 6px ;
+  background-color: white;
+  padding:  1em 3em 1em 2em;
+  
+  width: 100%;
+  height:450px
+
+  
+}
+.leest{
+  font-family: 'Poppins', sans-serif;
+ 
+}
+input {
+  
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 1px;
+  border-color:hsl(246, 25%, 77%);
+ 
+  
+  
+  
+}
+
+.done{
+  font-family: 'Poppins', sans-serif;
+  font-size: 13px;
+  overflow:hidden;
+  color: hsl(246, 25%, 77%) ;
+  
+}
+.dun{
+  color:  hsl(0, 100%, 74%) ;
+}
